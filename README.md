@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• ASP.NET MVC e ASP.NET Core;<br>• Entity Framework;<br>• Web API;<br>• Windows Form;<br>• Testes unitários;<br>• ASP.NET Identity, JWT e Bearer Auth.<br>• DDD;<br>• TDD;<br>• CQRS;<br>• SOLID;<br>• Repositórios e serviços de domínio;<br>• Integração de APIs e Web Services;<br>• SignalR<br>• Injeção de dependência<br>• Arquitetura em Camadas;<br>• Microserviços;<br>• Kafka;</p>
+<p align="left">• ASP.NET MVC e ASP.NET Core;<br>• Entity Framework;<br>• Web API;<br>• Windows Form;<br>• Testes unitários;<br>• ASP.NET Identity, JWT e Bearer Auth.<br>• DDD;<br>• TDD;<br>• CQRS;<br>• SOLID;<br>• Repositórios e serviços de domínio;<br>• Integração de APIs e Web Services;<br>• SignalR<br>• Injeção de dependência<br>• Arquitetura em Camadas;<br>• Microserviços;<br>• Mensageria;</p>
 
 ###
 
@@ -56,6 +56,8 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
 </div>
 
 ###
