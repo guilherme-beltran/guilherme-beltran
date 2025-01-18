@@ -1,22 +1,72 @@
-<h1 align="center">Olá, seja bem vindo! Eu sou Guilherme Beltran 👋</h1>
+<h1 align="center">Olá, seja bem-vindo! Eu sou Guilherme Beltran 👋</h1>
 
 ###
 
-<p align="left">Desenvolvedor .NET com mais de 2 anos de atuação. Designer UI aplicando psicologia para aprimorar o UX. Atualmente estudando Angular para aprimorar minhas habilidades Front-end. Especialista em banco de dados SQL Server, com foco em administração das bases, TSQL, modelagem de banco de dados atendendo as propriedades ACID, segurança dos dados com Always Encrypted, Backup e Restore, planos de continuidade,<br>RPO e RTO, políticas de segurança de usuários, níveis de acesso, Logs de transações, além de outras operações. Além disso, possuo conhecimentos em Power BI. Sou capaz de me adaptar em qualquer projeto, seja ele focado no Front-end, Back-end ou na base de dados.</p>
+<p align="left">Sou graduado em Tecnologia em Banco de Dados e acumulo mais de 4 anos de experiência no desenvolvimento de software, com atuação em setores como comércio, varejo, educação e transporte urbano. Possuo expertise em arquitetura de software, implementação de microsserviços e desenvolvimento de aplicações como full stack.</p>
 
 ###
 
-<h1 align="left">Habilidades:</h1>
+<h1 align="left">Principais Competências Técnicas:</h1>
 
-###
+<h2 align="left">Arquitetura e Design</h2>
+<ul>
+  <li>Monolítica (tradicional e modular)</li>
+  <li>Microsserviços com orquestração (MassTransit, Saga Pattern) e comunicação assíncrona (RabbitMQ, Kafka)</li>
+  <li>Camadas (N-Tier) e Clean Architecture para sistemas corporativos</li>
+  <li>Event-Driven Architecture (EDA) para fluxos baseados em eventos</li>
+  <li>Aplicação de princípios de design: SOLID, DRY, KISS</li>
+  <li>Domain-Driven Design (DDD) e Test-Driven Development (TDD)</li>
+  <li>Capacidade de projetar sistemas escaláveis, resilientes e de fácil manutenção</li>
+</ul>
 
-<p align="left">• ASP.NET MVC e ASP.NET Core;<br>• Entity Framework;<br>• Web API;<br>• Windows Form;<br>• Testes unitários;<br>• ASP.NET Identity, JWT e Bearer Auth.<br>• DDD;<br>• TDD;<br>• CQRS;<br>• SOLID;<br>• Repositórios e serviços de domínio;<br>• Integração de APIs e Web Services;<br>• SignalR<br>• Injeção de dependência<br>• Arquitetura em Camadas;<br>• Microserviços;<br>• Mensageria;</p>
+<h2 align="left">Backend</h2>
+<ul>
+  <li>.NET Core e Framework (MVC, Web API, Serviços Windows, Windows Forms)</li>
+</ul>
+
+<h2 align="left">Frontend</h2>
+<ul>
+  <li>React, Angular, Bootstrap, Tailwind, CSS</li>
+</ul>
+
+<h2 align="left">Mobile</h2>
+<ul>
+  <li>Ionic e Capacitor</li>
+</ul>
+
+<h2 align="left">Banco de Dados</h2>
+<ul>
+  <li>SQL Server, MySQL, PostgreSQL, MongoDB, Redis</li>
+</ul>
+
+<h2 align="left">Segurança e Autenticação</h2>
+<ul>
+  <li>RBAC, ABAC, JWT, ASP.NET Identity</li>
+</ul>
+
+<h2 align="left">Microsserviços e Integração</h2>
+<ul>
+  <li>RabbitMQ, Kafka, Saga Pattern (MassTransit)</li>
+</ul>
+
+<h2 align="left">Testes de Software</h2>
+<ul>
+  <li>Testes unitários, de integração, manuais e automatizados</li>
+</ul>
+
+<h2 align="left">DevOps e CI/CD</h2>
+<ul>
+  <li>Docker, Jenkins, GitHub Actions, Azure DevOps, Pipelines de CI/CD</li>
+</ul>
+
+<h2 align="left">Cloud</h2>
+<ul>
+  <li>Azure</li>
+</ul>
 
 ###
 
 <h1 align="left">Tecnologias:</h1>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -63,8 +113,6 @@
 ###
 
 <h1 align="left">Contatos:</h1>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-beltran/" target="_blank">
